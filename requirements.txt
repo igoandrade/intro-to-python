@@ -4,6 +4,7 @@ sympy
 pandas
 pandas-datareader
 matplotlib
+lxml
 seaborn
 plotly
 yfinance
